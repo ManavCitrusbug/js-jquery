@@ -1,0 +1,277 @@
+.firstcon{
+    display: flex;
+    /* text-align: center; */
+    width: 100%;
+    height: 30px;
+    /* background-color: black; */
+}
+.div1{
+    width: 100%;
+    height: 600px;
+    border: 3px solid black;
+    border-radius: 20px;
+
+    text-align: center;
+}
+.hedertxt1{
+    font-family: 'Oswald', sans-serif;
+    /* font-size: 18px; */
+    font-size: 30px;
+    letter-spacing: 3px;
+    margin-left: 170px;
+}
+.txtcon1{
+    margin-left: 580px;
+}
+.inputtxt1{
+    margin-top: 12px;
+    margin-left: 115px;
+}
+.intxt1{
+    width: 250px;
+    height: 25px;
+    border-radius: 6px;
+    
+}
+.intxt1:focus {
+    box-shadow: 0 0 10px #047bf2;
+}
+.txt1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 14px;
+    letter-spacing: 1px;
+}
+.valcon{
+    /* margin-top: 5px; */
+    width: 100%;
+    /* background-color: black; */
+    height: 30px;
+}
+/* .val1{
+    color: rgb(244, 8, 8);
+    padding-top: 3px;
+    margin-left: 320px;
+} */
+.seccon{
+    display: flex;
+    /* text-align: center; */
+    width: 100%;
+    height: 30px;
+}
+.txtcon2{
+    margin-left: 580px;
+}
+.txt2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 14px;
+    /* letter-spacing: 1px; */
+}
+.inputtxt2{
+    margin-top: 12px;
+    margin-left: 93px;
+
+}
+.intxt2{
+    width: 250px;
+    height: 25px;
+    border-radius: 8px;
+}
+.intxt2:focus {
+    box-shadow: 0 0 10px #047bf2;
+}
+.valcon2{
+    width: 100%;
+    /* background-color: black; */
+    height: 30px;
+}
+.val2{
+    color: rgb(244, 8, 8);
+    padding-top: 3px;
+    margin-left: 245px;
+
+}
+.thrcon{
+    display: flex;
+    /* text-align: center; */
+    width: 100%;
+    height: 30px;
+}
+.txtcon3{
+    margin-left: 580px;
+}
+.txt3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 14px;
+    /* letter-spacing: 1px; */
+}
+.inputtxt3{
+    margin-top: 12px;
+    margin-left: 100px;
+
+}
+.intxt3{
+    width: 250px;
+    height: 25px;
+    border-radius: 8px;
+}
+.intxt3:focus {
+    box-shadow: 0 0 10px #047bf2;
+}
+.valcon3{
+    width: 100%;
+    /* background-color: black; */
+    height: 30px;
+}
+.val3{
+    color: rgb(244, 8, 8);
+    padding-top: 3px;
+    margin-left: 250px;
+
+}
+.furcon{
+    display: flex;
+    /* text-align: center; */
+    width: 100%;
+    height: 30px;
+}
+.txtcon4{
+    margin-left: 580px;
+}
+.txt4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 14px;
+    /* letter-spacing: 1px; */
+}
+.inputtxt4{
+    margin-top: 12px;
+    margin-left: 32px;
+
+}
+.intxt4{
+    width: 250px;
+    height: 25px;
+    border-radius: 8px;
+}
+.intxt4:focus {
+    box-shadow: 0 0 10px #047bf2;
+}
+.valcon4{
+    width: 100%;
+    /* background-color: black; */
+    height: 30px;
+}
+.val4{
+    color: rgb(244, 8, 8);
+    padding-top: 3px;
+    margin-left: 250px;
+
+}
+.fivecon{
+    display: flex;
+    /* text-align: center; */
+    width: 100%;
+    height: 30px;
+}
+.txtcon5{
+    margin-left: 580px;
+}
+.txt5{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 14px;
+    /* letter-spacing: 1px; */
+}
+.inputtxt5{
+    margin-top: 12px;
+    margin-left: 148px;
+
+}
+.intxt5{
+    width: 250px;
+    height: 25px;
+    border-radius: 8px;
+}
+.intxt5:focus {
+    box-shadow: 0 0 10px #047bf2;
+}
+.valcon5{
+    width: 100%;
+    /* background-color: black; */
+    height: 30px;
+}
+.val5{
+    color: rgb(244, 8, 8);
+    padding-top: 3px;
+   margin-left: 255px;
+
+}
+.sixcon{
+    display: flex;
+    /* text-align: center; */
+    width: 100%;
+    height: 30px;
+}
+.txtcon6{
+    margin-left: 580px;
+}
+.txt6{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 14px;
+    /* letter-spacing: 1px; */
+}
+/* .inputtxt6{
+    margin-top: 12px;
+    margin-left: 148px;
+
+} */
+/* .intxt6{
+    width: 200px;
+    height: 20px;
+    border-radius: 8px;
+} */
+.intxt6:focus {
+    box-shadow: 0 0 10px #047bf2;
+}
+.valcon6{
+    width: 100%;
+    /* background-color: black; */
+    height: 30px;
+}
+.val6{
+    color: rgb(244, 8, 8);
+    padding-top: 3px;
+   margin-left: 255px;
+
+}
+.txtarea{
+    border-radius: 10px;
+    margin-left: 115px;
+    /* width: 50px; */
+}
+.txtarea:focus {
+    box-shadow: 0 0 10px #047bf2;
+}
+.butn{
+    width: 100%;
+    height: 40px;
+    /* background-color: black; */
+
+}
+.bt1{
+    margin-top: 2px;
+    margin-left: 580px;
+    height: 30px;
+    width: 70px;
+    /* background-color: aliceblue */
+}
+.bt1 input{
+    width: 100%;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(24, 231, 207);
+}
